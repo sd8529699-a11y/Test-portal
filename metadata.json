@@ -1,0 +1,6 @@
+{
+  "name": "MCE Examination Portal",
+  "description": "Proctored Computer-Based Assessment System with strict window-blur auto-submission guard, administrative test authoring, student management, and real-time exam analytics.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

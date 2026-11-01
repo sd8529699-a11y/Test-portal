@@ -1,0 +1,5 @@
+# Gmail se result email bhejne ke liye (server.mjs ye padhta hai)
+# GMAIL_APP_PASSWORD = Google Account > Security > 2-Step Verification > App passwords
+GMAIL_USER=yourname@gmail.com
+GMAIL_APP_PASSWORD=abcd efgh ijkl mnop
+MAIL_FROM_NAME=MCE Examination Portal
