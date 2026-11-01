@@ -22,8 +22,8 @@ const PORT = Number(process.env.PORT) || 3000;
 
 // ---------- Firebase (wahi config jo src/services/storage.ts mein hai) ----------
 const firebaseConfig = {
-  apiKey: 'AIzaSyDDyWDDgLmgL_zXq1I_p7i9ca7l2nFt4J8',
-  authDomain: 'exam-portal-18495.firebaseapp.com',
+  apiKey: 'sue the api of the gemini',
+  authDomain: 'autho domain of the project',
   projectId: 'exam-portal-18495',
   storageBucket: 'exam-portal-18495.firebasestorage.app',
   messagingSenderId: '785313781415',
