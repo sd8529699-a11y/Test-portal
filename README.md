@@ -6,13 +6,13 @@ Live Preview
 
 You can view the application here:
 
-Open Project in Google AI Studio
+Open in vs code
 
 Requirements
 
 Make sure you have the following installed:
 
-Node.js
+install express.js
 npm
 Installation
 
